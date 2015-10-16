@@ -1,1 +1,1 @@
-print 'hahah'
+#!/usr/bin/env python
